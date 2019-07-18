@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "How to develop Microsoft Dynamics NAV 2009 using Git"
+date:   2019-07-15 23:11:57 +0300
+categories: jekyll update
+---
+
+In the article I tell about connecting NAV 2009 ang a Git repository. You can find the article [here][medium-link].
+
+[medium-link]: https://medium.com/@cheremisin_k/how-to-develop-microsoft-dynamics-nav-2009-using-git-36e77f857615
