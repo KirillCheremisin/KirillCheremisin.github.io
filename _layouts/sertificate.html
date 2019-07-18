@@ -5,9 +5,10 @@ layout: default
 <div class="home">
     {{ content }}
 
-  {% for image in site.static_files %}
-    {% if image.path contains 'sertificates' %}
-        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+  {% for sert in site.static_files %}
+    {% if sert.path contains 'sertificates' %}
+     <h2> {{ sert.basename }} </h2>
+        <img src="{{ site.baseurl }}{{ sert.path }}" alt="image" />
         <br>
         <br>
     {% endif %}
