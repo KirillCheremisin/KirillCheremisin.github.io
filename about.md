@@ -15,17 +15,22 @@ Area of interests:
 - Development practices (DevOps, QA);
 - Programming;
 - DevOps;
-- Working with somebody smarter than me.
+- Working with somebody smarter than me;
+- Martial arts.
 
-On the pages you can find my articles and some informatino about me.
+On the pages you can find my articles and some information about me.
 
 Education.
 1. Bachelor of Business Informatics (ITMO University).
 Key knowledge:
 - Business analysis (BPMN, ARIS);
-- System analysis (IDEF, UML).
+- Business requrements;
+- System analysis (IDEF, UML, database structure);
+- Technical specifications on information systems;
+- Overview of IT standards.
 
 2. Master of Applied Informatics (ITMO University).
+A logical continuation of the Bachelor. Overview of testing concepts, project on multicomponent web-app, making DWH on SQL Server.
 
 Experience.
 1. Junoir .NET developer. at window facory
