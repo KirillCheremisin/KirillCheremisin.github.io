@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div class="home">
+    {{ content }}
+
+  {% for image in site.static_files %}
+    {% if image.path contains 'sertificates' %}
+        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+        <br>
+        <br>
+    {% endif %}
+  {% endfor %}
+
+</div>
