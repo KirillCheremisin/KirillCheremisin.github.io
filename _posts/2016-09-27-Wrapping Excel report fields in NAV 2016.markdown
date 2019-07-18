@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wrapping Excel report fields in NAV 2016"
-date:   2019-07-16 23:11:57 +0300
+date:   2016-09-27 23:11:57 +0300
 categories: jekyll update
 ---
 
