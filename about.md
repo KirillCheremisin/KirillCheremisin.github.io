@@ -10,7 +10,7 @@ Call me Kirill.
 
 I develop something on NAV 2018.
 
-Area of interests:
+<h3>Area of interests</h3>
 - System analysis;
 - Development practices (DevOps, QA);
 - Programming;
@@ -20,7 +20,7 @@ Area of interests:
 
 On the pages you can find my articles and some information about me.
 
-Education.
+<h3>Education.</h3>
 1. Bachelor of Business Informatics (ITMO University).
 Key knowledge:
 - Business analysis (BPMN, ARIS);
@@ -32,7 +32,7 @@ Key knowledge:
 2. Master of Applied Informatics (ITMO University).
 A logical continuation of the Bachelor. Overview of testing concepts, project on multicomponent web-app, making DWH on SQL Server.
 
-Experience.
+<h3>Experience.</h3>
 1. Junoir .NET developer. at window facory
 2. Dynamics NAV developer at Awara IT
 3. Dynamics NAV developer at Microsoft Russia
