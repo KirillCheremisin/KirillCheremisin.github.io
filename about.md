@@ -6,23 +6,39 @@ permalink: /about/
 
 
 Hi there!
+Call me Kirill.
+
+I develop something on NAV 2018.
+
+Area of interests:
+- System analysis;
+- Development practices (DevOps, QA);
+- Programming;
+- DevOps;
+- Working with somebody smarter than me.
+
+On the pages you can find my articles and some informatino about me.
 
 Education.
+1. Bachelor of Business Informatics (ITMO University).
+Key knowledge:
+- Business analysis (BPMN, ARIS);
+- System analysis (IDEF, UML).
+
+2. Master of Applied Informatics (ITMO University).
 
 Experience.
+1. Junoir .NET developer. at window facory
+2. Dynamics NAV developer at Awara IT
+3. Dynamics NAV developer at Microsoft Russia
+4. Dynamics NAV developer at Sberbank Leasing
 
-Intresting.
-
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Intrested in.
+At free time I learn English at SkyEng school, write articles and make experiments with my laptop.
 
 
-[jekyll-organization]: https://github.com/jekyll
+You can find my articles on the main page.
+
+My [Dynamics Community profile][dynamics-community].
+
+[dynamics-community]: https://community.dynamics.com/members/kirill-cheremisin/blogs
