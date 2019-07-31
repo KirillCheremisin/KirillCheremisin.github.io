@@ -8,14 +8,15 @@ permalink: /about/
 Hi there!
 Call me Kirill.
 
-I develop something on NAV 2018.
+I develop something on NAV 2018. As a specialist a decided to further - now I am interested in processes and inner automation. No doubt, NAV Developmnt is a number one issue, but it's not enougth.
 
 <h3>Area of interests</h3>
 - System analysis;
 - Development practices (DevOps, QA);
+- Development processes/frameworks/lifecycles;
 - Programming;
-- DevOps;
 - Working with somebody smarter than me;
+- Reading books;
 - Martial arts.
 
 On the pages you can find my articles and some information about me.
@@ -26,7 +27,6 @@ Key knowledge:
 - Business analysis (BPMN, ARIS);
 - Business requrements;
 - System analysis (IDEF, UML, database structure);
-- Technical specifications on information systems;
 - Overview of IT standards.
 
 2. Master of Applied Informatics (ITMO University).
@@ -38,7 +38,7 @@ A logical continuation of the Bachelor. Overview of testing concepts, project on
 3. Dynamics NAV developer at Microsoft Russia
 4. Dynamics NAV developer at Sberbank Leasing
 
-Intrested in.
+<h3>Intrested in.</h3>
 At free time I learn English at SkyEng school, write articles and make experiments with my laptop.
 
 
