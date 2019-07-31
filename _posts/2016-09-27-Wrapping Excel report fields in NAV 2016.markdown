@@ -3,6 +3,7 @@ layout: post
 title:  "Wrapping Excel report fields in NAV 2016"
 date:   2016-09-27 23:11:57 +0300
 categories: jekyll update
+author: Kirill Cheremisin
 ---
 
 In the article we tell about managing heigth of fields in exported Excel report templates. You can find the article [here][medium-link].
