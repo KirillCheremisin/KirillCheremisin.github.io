@@ -17,7 +17,7 @@ I develop something on NAV 2018. As a specialist a decided to go further - now I
 - Programming;
 - Working with somebody smarter than me;
 - Reading books;
-- Martial arts.
+- Longboarding.
 
 On the pages you can find my articles and some information about me.
 
@@ -38,7 +38,7 @@ A logical continuation of the Bachelor. Overview of testing concepts, project on
 3. Dynamics NAV developer at Microsoft Russia
 4. Dynamics NAV developer at Sberbank Leasing
 
-<h3>Intrests</h3>
+<h3>Interests</h3>
 At free time I learn English at SkyEng school, write articles and make experiments with my laptop.
 
 
