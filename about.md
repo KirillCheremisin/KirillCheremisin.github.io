@@ -8,12 +8,12 @@ permalink: /about/
 Hi there!
 Call me Kirill.
 
-I develop something on NAV 2018. As a specialist a decided to further - now I am interested in processes and inner automation. No doubt, NAV Developmnt is a number one issue, but it's not enougth.
+I develop something on NAV 2018. As a specialist a decided to go further - now I am interested in processes and inner automation. No doubt, NAV Developmnt is a number one issue, but it's not enough.
 
 <h3>Area of interests</h3>
 - System analysis;
 - Development practices (DevOps, QA);
-- Development processes/frameworks/lifecycles;
+- Development processes, frameworks, lifecycles;
 - Programming;
 - Working with somebody smarter than me;
 - Reading books;
