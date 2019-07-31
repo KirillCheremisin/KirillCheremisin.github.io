@@ -12,4 +12,4 @@ In short, the article is dedicated to code review without having a control versi
 
 The whole article with the screens and pictures you can read [here][medium-link].
 
-[medium-link]: https://medium.com/@cheremisin_k/code-review-without-git-with-dynamics-nav-example-f08133f854a9
+[medium-link]: https://medium.com/@cheremisin_k/code-review-without-git-with-dynamics-nav-example-f08133f854a9?source=friends_link&sk=fd33eb6eb820451a5acfa829ef803223

@@ -8,4 +8,4 @@ author: Kirill Cheremisin
 
 In the article I tell about connecting NAV 2009 ang a Git repository. You can find the article [here][medium-link].
 
-[medium-link]: https://medium.com/@cheremisin_k/how-to-develop-microsoft-dynamics-nav-2009-using-git-36e77f857615
+[medium-link]: https://medium.com/@cheremisin_k/how-to-develop-microsoft-dynamics-nav-2009-using-git-36e77f857615?source=friends_link&sk=2d73e834e4eadaa2df9d21c9ee443665

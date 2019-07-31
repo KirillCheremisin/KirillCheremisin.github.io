@@ -8,4 +8,4 @@ author: Kirill Cheremisin
 
 In the article I tell about building NAV 2018 solution from Bitbucket repository with desctop TFS. You can find the article [here][medium-link].
 
-[medium-link]: https://medium.com/@cheremisin_k/tfs-build-and-nav-2018-5f0b830afd8d
+[medium-link]: https://medium.com/@cheremisin_k/tfs-build-and-nav-2018-5f0b830afd8d?source=friends_link&sk=19e0825413204316c0274a7767cee9d7
