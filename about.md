@@ -46,4 +46,4 @@ You can find my articles on the main page.
 
 My [Dynamics Community profile][dynamics-community].
 
-[dynamics-community]: https://community.dynamics.com/members/kirill-cheremisin/blogs
+[dynamics-community]: https://community.dynamics.com/nav/b/kirillcheremisinnav
