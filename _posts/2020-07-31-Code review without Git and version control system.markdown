@@ -8,7 +8,7 @@ author: Kirill Cheremisin
 
 Hi there!
 
-In short, the article is dedicated to code review without having a control version system like Git. The tool allows you to handle code review without Git, comment code, get email notifications, analise review requests information in reports and so on.
+In short, the article is dedicated to code review without having a control version system like Git. The tool allows you to handle code review without Git, comment code, get email notifications, analyse review requests information in reports and so on.
 
 The whole article with the screens and pictures you can read [here][medium-link].
 
