@@ -38,8 +38,8 @@ A logical continuation of the Bachelor. Overview of testing concepts, project on
 3. Dynamics NAV developer at Microsoft Russia
 4. Dynamics NAV developer at Sberbank Leasing
 
-<h3>Interests</h3>
-At free time I learn English at SkyEng school, write articles and make experiments with my laptop.
+<h3>Hobby</h3>
+At free time I do longboarding, learn English at SkyEng school, write articles and make experiments with my laptop.
 
 
 You can find my articles on the main page.
