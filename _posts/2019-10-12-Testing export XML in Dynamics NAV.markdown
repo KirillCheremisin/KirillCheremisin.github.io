@@ -20,4 +20,4 @@ The most important points:
 
 The whole article with the screens and pictures you can read [here][medium-link].
 
-[medium-link]: https://vk.com/away.php?to=https%3A%2F%2Fmedium.com%2F%40cheremisin_k%2Ftesting-export-xml-in-dynamics-nav-6aa85bb7f7c4%3Fsource%3Dfriends_link%26sk%3D552cf7276f4d93ebad7e30d7b9c46e38&cc_key=
+[medium-link]: https://medium.com/@cheremisin_k/testing-export-xml-in-dynamics-nav-6aa85bb7f7c4?source=friends_link&sk=552cf7276f4d93ebad7e30d7b9c46e38
