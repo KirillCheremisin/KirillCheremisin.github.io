@@ -33,7 +33,7 @@ Key knowledge:
 A logical continuation of the Bachelor. Overview of testing concepts, project on multicomponent web-app, making DWH on SQL Server.
 
 <h3>Experience</h3>
-1. Junoir .NET developer. at window facory
+1. Junoir .NET developer. at window factory
 2. Dynamics NAV developer at Awara IT
 3. Dynamics NAV developer at Microsoft Russia
 4. Dynamics NAV developer at Sberbank Leasing
