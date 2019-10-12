@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Code review without Git and version control system"
-date:   2019-07-31 00:00:00 +0300
+title:  "Testing export XML in Dynamics NAV"
+date:   2019-10-12 00:00:00 +0300
 categories: jekyll update
 author: Kirill Cheremisin
 ---
