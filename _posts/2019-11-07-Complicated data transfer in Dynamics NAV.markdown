@@ -14,4 +14,4 @@ In short, the article is dedicated to the method of making easier developing sce
 
 The answer is use "data storage" (my brand-new name) codeunits. The details is under [link][medium-link].
 
-[medium-link]: https://medium.com/@cheremisin_k/complicated-data-transfer-in-dynamics-nav-d519f3797565?sk=1b55b7ac2c369981deb95ca4d1260eec
+[medium-link]: https://medium.com/@cheremisin_k/complicated-data-transfer-in-dynamics-nav-d519f3797565?source=friends_link&sk=1b55b7ac2c369981deb95ca4d1260eec
