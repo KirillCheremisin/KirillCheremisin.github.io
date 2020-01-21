@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "How to convince your Dynamics NAV dev team to use Git (with slides)"
-date:   2020-01-22 00:00:00 +0300
+title:  "How to convince your Dynamics NAV dev team to use Git with slides"
+date:   2020-01-21 00:00:00 +0300
 categories: jekyll update
 author: Kirill Cheremisin
 ---
