@@ -12,6 +12,6 @@ Time is going fast, changing processes, tools and development approach around us
 
 In Dynamics NAV world some of us still develop as years before and face the same problems: how to make fewer mistakes, how to deliver and deploy faster, how to control our code. The answer is simple: Git + automated testing.
 
-The details is under [link][medium-link].
+The details are under the [link][medium-link].
 
 [medium-link]: https://medium.com/@cheremisin_k/how-to-convince-your-dynamics-nav-dev-team-to-use-git-with-slides-eea2358489f8?source=friends_link&sk=076c65b4a9f675f237b322bbc5544583
