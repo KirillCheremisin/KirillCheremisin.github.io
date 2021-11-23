@@ -16,7 +16,7 @@
 title: Kirill Cheremisin
 email: cheremisin_k@mail.ru
 description:
-  Hi there! Now you see my pages. Hope you have fun.
+  Hi there! Now you see my pages.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
